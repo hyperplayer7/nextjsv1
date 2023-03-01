@@ -11,6 +11,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
 
 
 ### Technologies Used
@@ -30,7 +32,7 @@
 ### Project URL
 - https://nextjsv1-one.vercel.app/
 - https://nextjsv1.onrender.com/
-- 
+- https://main--shimmering-haupia-a6b06d.netlify.app/
 
 ### Github URL
 - https://github.com/hyperplayer7/nextjsv1
@@ -43,3 +45,4 @@
 ### Next Iteration
 - Deploy to render - DONE
 - Deploy on vercel - DONE
+- Deploy on netlify - DONE
