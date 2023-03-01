@@ -27,7 +27,9 @@
 
 
 ### Project URL
-<!-- - https://chatgptv1.onrender.com/ -->
+- https://nextjsv1-one.vercel.app/
+- https://nextjsv1.onrender.com/
+- 
 
 ### Github URL
 - https://github.com/hyperplayer7/nextjsv1
