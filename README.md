@@ -40,6 +40,7 @@
 ### Credits / References
 - https://nextjs.org/learn/basics/create-nextjs-app/setup
 - https://github.com/Ileriayo/markdown-badges
+- https://www.youtube.com/watch?v=FQPlEnKav48
 
 
 ### Next Iteration
